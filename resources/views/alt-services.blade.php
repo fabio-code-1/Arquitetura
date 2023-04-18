@@ -4,9 +4,11 @@
         <div class="col-lg-6 img-bg" style="background-image: url(img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
         <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus
-                laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+            <h3>Sobre</h3>
+            <p>
+                Como arquiteta, acredito que a arquitetura tem o poder de melhorar a vida das pessoas e transformar a forma como elas interagem com o mundo ao seu redor. É uma honra e um privilégio poder ajudar nossos clientes a alcançar seus sonhos por meio do projeto arquitetônico.
+                Se você está buscando um projeto único e personalizado, estamos aqui para ajudá-lo.
+            </p>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-easel flex-shrink-0"></i>

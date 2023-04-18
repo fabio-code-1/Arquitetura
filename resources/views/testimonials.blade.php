@@ -1,9 +1,11 @@
 <div class="container" data-aos="fade-up">
 
     <div class="section-header">
-        <h2>Testimonials</h2>
-        <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia
-            reprehenderit sunt deleniti</p>
+        <h2>Comentários</h2>
+        <p>
+            A satisfação dos nossos clientes é a nossa prioridade,
+            por isso valorizamos cada comentário e feedback recebido para continuarmos aperfeiçoando nossos serviços.
+        </p>
     </div>
 
     <div class="slides-2 swiper">

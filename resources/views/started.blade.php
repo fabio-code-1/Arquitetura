@@ -4,24 +4,30 @@
 
         <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
             <div class="content">
-                <h3>Minus hic non reiciendis ea possimus at quia.</h3>
-                <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum nobis
-                    ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut delectus
-                    dicta.
-                <p>Aliquam velit deserunt autem. Inventore et saepe. Tenetur suscipit eligendi labore culpa eos. Deserunt
-                    porro magni qui necessitatibus dolorem at animi cupiditate.</p>
+                <h3>Contato</h3>
+                <p>
+                    Entre em contato conosco por e-mail para obter mais informações sobre nossos serviços.
+                    Estamos sempre disponíveis para responder suas dúvidas e ajudá-lo da melhor maneira possível.
+                </p>
+                <p>
+                    Envie-nos um e-mail com suas dúvidas e entraremos em contato o mais breve possível. Obrigado!
+                </p>
+                <p class="mb-5">
+                    Se preferir, preencha o formulário acima para solicitar um orçamento ou mais informações sobre nossos serviços.
+                </p>
+
+                <a href="https://wa.me/5511981664628" target="_blank" data-aos="fade-up" data-aos-delay="200" class="btn-get-started-whats"><i class="bi bi-whatsapp"></i> FAÇA ORÇAMENTO PELO WHATSZAP</a>
             </div>
         </div>
 
         <div class="col-lg-5" data-aos="fade">
             <form action="forms/quote.php" method="post" class="php-email-form">
-                <h3>Get a quote</h3>
-                <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero
-                    park flows.</p>
+                <h3>Solicite um orçamento</h3>
+                <p>Entre em contato conosco preenchendo o formulário abaixo para solicitar um orçamento personalizado para sua empresa.</p>
                 <div class="row gy-3">
 
                     <div class="col-md-12">
-                        <input type="text" name="name" class="form-control" placeholder="Name" required>
+                        <input type="text" name="name" class="form-control" placeholder="Nome" required>
                     </div>
 
                     <div class="col-md-12 ">
@@ -29,11 +35,11 @@
                     </div>
 
                     <div class="col-md-12">
-                        <input type="text" class="form-control" name="phone" placeholder="Phone" required>
+                        <input type="text" class="form-control" name="phone" placeholder="Teledone" required>
                     </div>
 
                     <div class="col-md-12">
-                        <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                        <textarea class="form-control" name="message" rows="6" placeholder="Menssagem" required></textarea>
                     </div>
 
                     <div class="col-md-12 text-center">
@@ -41,7 +47,7 @@
                         <div class="error-message"></div>
                         <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
 
-                        <button type="submit">Get a quote</button>
+                        <button type="submit">Solicitar orçamento</button>
                     </div>
 
                 </div>
