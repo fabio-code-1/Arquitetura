@@ -16,13 +16,13 @@
                     Se preferir, preencha o formulário acima para solicitar um orçamento ou mais informações sobre nossos serviços.
                 </p>
 
-                <a href="https://wa.me/5511981664628" target="_blank" data-aos="fade-up" data-aos-delay="200" class="btn-get-started-whats"><i class="bi bi-whatsapp"></i> FAÇA ORÇAMENTO PELO WHATSZAP</a>
+                <a href="https://wa.me/5511981664628" target="_blank" data-aos="fade-up" data-aos-delay="200" class="btn-get-started-whats"><i class="bi bi-whatsapp"></i> FAÇA ORÇAMENTO PELO WHATSAPP</a>
             </div>
         </div>
 
         <div class="col-lg-5" data-aos="fade">
             <form action="forms/quote.php" method="post" class="php-email-form">
-                <h3>Solicite um orçamento</h3>
+                <h3>PRECISA DE UM PROJETO?</h3>
                 <p>Entre em contato conosco preenchendo o formulário abaixo para solicitar um orçamento personalizado para sua empresa.</p>
                 <div class="row gy-3">
 
@@ -35,7 +35,7 @@
                     </div>
 
                     <div class="col-md-12">
-                        <input type="text" class="form-control" name="phone" placeholder="Teledone" required>
+                        <input type="text" class="form-control" name="phone" placeholder="Telefone" required>
                     </div>
 
                     <div class="col-md-12">

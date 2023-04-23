@@ -8,7 +8,7 @@
 /* Colors */
 :root {
   --color-default: #593636;
-  --color-primary: #ffa5c5;
+  --color-primary: #ff007f;
   --color-secondary: #52565e;
 }
 
@@ -54,7 +54,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: #ffdff0;
 }
 
 .section-header {
@@ -121,7 +121,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #ffc732;
+  background:#e971b1;
   color: #fff;
 }
 
@@ -619,7 +619,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #ffbfe1;
 }
 
 @-webkit-keyframes animate-loading {
@@ -705,7 +705,7 @@ section {
   content: "";
   height: 100%;
   width: 100%;
-  background: #f0f1f2;
+  background: #ffdbf9;
   border-radius: 50px;
   z-index: 1;
   top: 10px;
@@ -750,10 +750,15 @@ section {
 # Our Projects Section
 --------------------------------------------------------------*/
 
-.fixed-width {
-  height: 250px;
+.portfolio-item {
+  display: flex;
 }
 
+.portfolio-item img {
+  object-fit: cover;
+  width: 450px;
+  height: 250px;
+}
 
 .projects .portfolio-flters {
   padding: 0;
@@ -1024,7 +1029,7 @@ section {
   border-radius: 4px;
   line-height: 0;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.08);
-  background-color: #fff;
+  background-color: #ffdff0;
   transition: 0.3s;
 }
 

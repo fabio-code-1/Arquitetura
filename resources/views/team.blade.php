@@ -15,12 +15,12 @@
 
         <div class="member d-flex flex-column align-items-center" data-aos="fade-up" data-aos-delay="200">
             <div class="member-img">
-                <img src="img/team/team-1.jpeg" class="img-fluid  member-img-small" alt="">
+                <img src="img/team/team-1.jpeg" class="img-fluid  member-img-small" alt="miria">
                 <div class="social">
-                    <a href="#"><i class="bi bi-twitter"></i></a>
+                    <!-- <a href="#"><i class="bi bi-twitter"></i></a>
                     <a href="#"><i class="bi bi-facebook"></i></a>
                     <a href="#"><i class="bi bi-instagram"></i></a>
-                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                    <a href="#"><i class="bi bi-linkedin"></i></a> -->
                 </div>
             </div>
             <div class="member-info text-center">

@@ -5,9 +5,15 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>UpConstruction Bootstrap Template - Index</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>arquitetura-ArqAmorim</title>
+  <meta name="description" content="ArqAmorim - Arquitetura inovadora e inspiradora. Soluções exclusivas e personalizadas. Projetos criativos, funcionais e sustentáveis. Palavras-chave: arquitetura, inovação, personalização, sustentabilidade.">
+  <meta name="keywords" content="arquitetura, arquitetura inovadora, projetos personalizados, sustentabilidade, estilo, transformação de espaços, obras de arte, ambiente criativo, funcional e sustentável, ArqAmorim">
+
+  <!-- sitmap -->
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+
+  <!-- canonico -->
+  <link rel="canonical" href="https://amp.dev/documentation/guides-and-tutorials/start/create/basic_markup/">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -28,6 +34,10 @@
 
   <!-- Template Main CSS File -->
   <link href="css/main.css" rel="stylesheet">
+
+  <!-- schema -->
+  <script type="application/ld+json" src="js/schema.json"></script>
+
 
 </head>
 
@@ -50,7 +60,7 @@
   </footer>
   <!-- End Footer -->
 
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short text-light"></i></a>
 
   <div id="preloader"></div>
 

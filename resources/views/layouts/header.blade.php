@@ -2,7 +2,7 @@
 
   <a href="index.html" class="logo d-flex align-items-center">
     <!-- Uncomment the line below if you also wish to use an image logo -->
-    <img src="img/logo.jpeg" alt="">
+    <img src="img/logo.jpeg" alt="header">
     <h1>ArqAmorim<span>.</span></h1>
   </a>
 

@@ -27,13 +27,13 @@
 
 
 <!-- ======= Our Projects Section ======= -->
-<section id="projects" class="projects">
+<section id="projects" class="projects section-bg">
     @include('projects')
 </section><!-- End Our Projects Section -->
 
 
 <!-- ======= Get Started Section ======= -->
-<section id="get-started" class="get-started section-bg">
+<section id="get-started" class="get-started">
     @include('started')
 </section><!-- End Get Started Section -->
 

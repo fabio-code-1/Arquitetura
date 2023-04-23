@@ -14,7 +14,7 @@
             <div class="swiper-slide">
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <img src="img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="clientes">
                         <h3>Saul Goodman</h3>
                         <h4>Ceo &amp; Founder</h4>
                         <div class="stars">
@@ -33,7 +33,7 @@
             <div class="swiper-slide">
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <img src="img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="clientes">
                         <h3>Sara Wilsson</h3>
                         <h4>Designer</h4>
                         <div class="stars">
@@ -52,7 +52,7 @@
             <div class="swiper-slide">
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <img src="img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="clientes">
                         <h3>Jena Karlis</h3>
                         <h4>Store Owner</h4>
                         <div class="stars">
@@ -71,7 +71,7 @@
             <div class="swiper-slide">
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <img src="img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="clientes">
                         <h3>Matt Brandon</h3>
                         <h4>Freelancer</h4>
                         <div class="stars">
@@ -90,7 +90,7 @@
             <div class="swiper-slide">
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <img src="img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="clientes">
                         <h3>John Larson</h3>
                         <h4>Entrepreneur</h4>
                         <div class="stars">

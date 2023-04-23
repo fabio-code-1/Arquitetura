@@ -36,9 +36,9 @@
                     </div>
                     <div class="col-xl-7 d-flex align-items-center">
                         <div class="card-body">
-                            <h4 class="card-title">Construindo com Segurança</h4>
+                            <h4 class="card-title">Inclusão</h4>
                             <p>
-                                Estamos comprometidos com a segurança de nossos trabalhadores em todas as etapas do projeto.
+                            Valorizamos a inclusão em nosso trabalho, buscando criar espaços e ambientes acessíveis, inclusivos e que atendam às necessidades de diversidade de pessoas, considerando questões de gênero, idade, etnia, capacidade física, entre outros.
                             </p>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
             <div class="card-item">
                 <div class="row">
                     <div class="col-xl-5">
-                        <div class="card-bg" style="background-image: url(img/constructions-3.jpeg);"></div>
+                        <div class="card-bg" style="background-image: url(img/constructions-3.jpg);"></div>
                     </div>
                     <div class="col-xl-7 d-flex align-items-center">
                         <div class="card-body">

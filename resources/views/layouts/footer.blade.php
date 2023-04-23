@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-5 col-md-6">
                 <div class="footer-info">
                     <h3>ArqAmorim</h3>
                     <p>
@@ -12,10 +12,10 @@
                         <strong>Email:</strong> miriaamorimarq@gmail.com<br>
                     </p>
                     <div class="social-links d-flex mt-3">
-                        <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
+                        <!-- <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
                         <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
                         <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                        <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
+                        <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a> -->
                     </div>
                 </div>
             </div><!-- End footer info column-->
@@ -24,46 +24,23 @@
                 <h4>Links Uteis</h4>
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Serviços</a></li>
-                    <li><a href="#">Terms of service</a></li>
-                    <li><a href="#">Privacy policy</a></li>
+                    <li><a href="#alt-services">Sobre</a></li>
+                    <li><a href="#services">Serviços</a></li>
+                    <li><a href="#projects">Projetos</a></li>
+                    <li><a href="#get-started">Contato</a></li>
                 </ul>
             </div><!-- End footer links column-->
 
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Serviços</h4>
                 <ul>
-                    <li><a href="#">Web Design</a></li>
-                    <li><a href="#">Web Development</a></li>
-                    <li><a href="#">Product Management</a></li>
-                    <li><a href="#">Marketing</a></li>
-                    <li><a href="#">Graphic Design</a></li>
+                    <li><a href="#services">Interiores</a></li>
+                    <li><a href="#services">Prefeitura</a></li>
+                    <li><a href="#services">Paisagismo</a></li>
+                    <li><a href="#services">Urbanismo</a></li>
                 </ul>
             </div><!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Sociais</h4>
-                <ul>
-                    <li><a href="#">Molestiae accusamus iure</a></li>
-                    <li><a href="#">Excepturi dignissimos</a></li>
-                    <li><a href="#">Suscipit distinctio</a></li>
-                    <li><a href="#">Dilecta</a></li>
-                    <li><a href="#">Sit quas consectetur</a></li>
-                </ul>
-            </div><!-- End footer links column-->
-
-            <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Sem ideia</h4>
-                <ul>
-                    <li><a href="#">Ipsam</a></li>
-                    <li><a href="#">Laudantium dolorum</a></li>
-                    <li><a href="#">Dinera</a></li>
-                    <li><a href="#">Trodelas</a></li>
-                    <li><a href="#">Flexo</a></li>
-                </ul>
-            </div><!-- End footer links column-->
-
+            
         </div>
     </div>
 </div>

@@ -1,0 +1,16 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Miria, Amorim",
+    "givenName": "Miria",
+    "familyName": "Amorim",
+    "funding": {
+      "@type": "Grant",
+      "identifier": "1448821",
+      "funder": {
+        "@type": "Organization",
+        "name": "Fundação Nacional de Ciência",
+        "identifier": "https://doi.org/10.13039/100000001"
+      }
+    }
+  }
