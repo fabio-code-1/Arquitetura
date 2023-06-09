@@ -38,7 +38,7 @@
                         <div class="card-body">
                             <h4 class="card-title">Inclusão</h4>
                             <p>
-                            Valorizamos a inclusão em nosso trabalho, buscando criar espaços e ambientes acessíveis, inclusivos e que atendam às necessidades de diversidade de pessoas, considerando questões de gênero, idade, etnia, capacidade física, entre outros.
+                            Valorizamos a inclusão em nosso trabalho, buscando criar espaços e ambientes acessíveis, inclusivos que atendam às necessidades de diversidade de pessoas, considerando questões de gênero, idade, etnia, capacidade física, entre outros.
                             </p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-xl-7 d-flex align-items-center">
                         <div class="card-body">
-                            <h4 class="card-title">Ètica</h4>
+                            <h4 class="card-title">Ética</h4>
                             <p>
                             A ética é um valor fundamental em nosso trabalho, guiando todas as nossas decisões e ações para garantir a integridade e o respeito aos nossos clientes e colaboradores.
                             </p>

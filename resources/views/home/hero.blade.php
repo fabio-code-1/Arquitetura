@@ -4,7 +4,7 @@
             <div class="col-lg-6 text-center">
                 <h2 data-aos="fade-down"><span>ArqAmorim</span></h2>
                 <p data-aos="fade-up">
-                sua solução em arquitetura e design personalizados, conte com a qualidade excepcional da nossa equipe para transformar seu espaço.
+                Sua solução em arquitetura e design personalizados, conte com a qualidade excepcional da nossa equipe para transformar seu espaço.
                 </p>
                 <a href="https://wa.me/5511981664628" target="_blank" data-aos="fade-up" data-aos-delay="200" class="btn-get-started"><i class="bi bi-cash-coin"></i> FAÇA ORÇAMENTO</a>
             </div>

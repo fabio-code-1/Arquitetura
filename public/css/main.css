@@ -24,6 +24,7 @@ body {
   font-family: var(--font-default);
   color: var(--color-default);
   overflow-x: hidden;
+  background-color: #fff;
 }
 
 a {
@@ -529,6 +530,13 @@ section {
   height: 100%;
 }
 
+.invalid-field {
+  border: 1px solid red;
+}
+.question {
+  display: none;
+}
+
 @media (max-width: 575px) {
   .get-started .php-email-form {
     padding: 20px;
@@ -550,9 +558,11 @@ section {
 .get-started .php-email-form .error-message {
   display: none;
   color: #fff;
+  width: 100%;
   background: #df1529;
-  text-align: left;
+  text-align: center;
   padding: 15px;
+  margin-top: 24px;
   margin-bottom: 24px;
   font-weight: 600;
 }
@@ -563,6 +573,8 @@ section {
   background: #059652;
   text-align: center;
   padding: 15px;
+  width: 100%;
+  margin-top: 24px;
   margin-bottom: 24px;
   font-weight: 600;
 }
@@ -609,16 +621,18 @@ section {
   padding: 12px 15px;
 }
 
-.get-started .php-email-form button[type=submit] {
-  background: var(--color-primary);
-  border: 0;
-  padding: 10px 30px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 4px;
+.get-started .php-email-form button[type=submit],
+.get-started .php-email-form button[type=button] {
+    background: var(--color-primary);
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 4px;
 }
 
-.get-started .php-email-form button[type=submit]:hover {
+.get-started .php-email-form button[type=submit]:hover,
+.get-started .php-email-form button[type=button]:hover {
   background: #ffbfe1;
 }
 

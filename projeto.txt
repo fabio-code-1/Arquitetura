@@ -1,0 +1,13 @@
+Qual é o seu nome?
+Qual é o seu contato de e-mail/telefone?
+Qual é o objetivo do seu projeto arquitetônico?
+Em qual tipo de propriedade você está interessado(a)? (Residencial, comercial, industrial, etc.)
+Qual é o tamanho aproximado da área em que o projeto será realizado?
+Você já possui um terreno ou propriedade para o projeto?
+a) Sim
+b) Não, estou procurando um terreno
+c) Não, preciso de ajuda para encontrar um terreno
+Qual é o seu orçamento estimado para o projeto?
+Você tem alguma preferência em relação ao estilo arquitetônico?
+Existe alguma restrição legal ou regulamentar que precisamos considerar para o projeto?
+Você tem alguma preferência em relação ao prazo de conclusão do projeto?

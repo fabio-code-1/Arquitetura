@@ -76,6 +76,9 @@
   <!-- Template Main JS File -->
   <script src="js/main.js"></script>
 
+  <!-- Template Form-etapa JS File -->
+  <script src="js/form_etapa.js"></script>
+
 </body>
 
 </html>

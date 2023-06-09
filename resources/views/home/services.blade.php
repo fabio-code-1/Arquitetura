@@ -54,13 +54,13 @@
                 </div>
                 <h3>PROJETO DE URBANISMO</h3>
                 <p>
-                    Planeje o desenvolvimento urbano de forma integrada e sustentável com nosso serviço de projeto de urbanismo.
-                    Oferecemos soluções abrangentes para o crescimento harmonioso de cidades e comunidades, considerando aspectos como mobilidade urbana, infraestrutura, uso do solo e qualidade de vida.
+                     Planeje o desenvolvimento urbano de forma integrada e sustentável com nosso serviço de projeto de urbanismo.
+                     Oferecemos soluções abrangentes para o crescimento harmonioso de cidades e comunidades, considerandos aspectos como mobilidade urbana, infraestrutura, uso do solo e qualidade de vida.
                 </p>
             </div>
         </div><!-- End Service Item -->
 
     </div>
-    
+
 
 </div>

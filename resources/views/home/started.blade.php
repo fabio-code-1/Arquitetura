@@ -25,29 +25,29 @@
                 <h3>PRECISA DE UM PROJETO?</h3>
                 <p>Entre em contato conosco preenchendo o formulário abaixo para solicitar um orçamento personalizado para sua empresa.</p>
                 <div class="row gy-3">
-
-                    <div class="col-md-12">
-                        <input type="text" name="name" class="form-control" placeholder="Nome" required>
+                    <div class="col-md-12 question">
+                        <input type="text" name="name" class="form-control mt-4" placeholder="Nome" required>
                     </div>
 
-                    <div class="col-md-12 ">
-                        <input type="email" class="form-control" name="email" placeholder="Email" required>
+                    <div class="col-md-12  question">
+                        <input type="email" class="form-control mt-4" name="email" placeholder="Email" required>
                     </div>
 
-                    <div class="col-md-12">
-                        <input type="text" class="form-control" name="phone" placeholder="Telefone" required>
+                    <div class="col-md-12 question">
+                        <input type="text" class="form-control mt-4" name="phone" placeholder="Telefone" required>
                     </div>
 
-                    <div class="col-md-12">
-                        <textarea class="form-control" name="message" rows="6" placeholder="Menssagem" required></textarea>
+                    <div class="col-md-12 question">
+                        <textarea class="form-control mt-4" name="message" rows="6" placeholder="Menssagem" required></textarea>
                     </div>
 
                     <div class="col-md-12 text-center">
                         <div class="loading">Loading</div>
                         <div class="error-message"></div>
-                        <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-
-                        <button type="submit">Solicitar orçamento</button>
+                        <div class="sent-message">Sua solicitação de orçamento foi enviada com sucesso. Obrigado!</div>
+                        <button type="button" class="m-3" id="previousButton" onclick="showPreviousQuestion()">Anterior</button>
+                        <button type="button" class="m-3" id="nextButton" onclick="showNextQuestion()">Próxima</button>
+                        <button type="submit" id="submitButton" style="display: none;">Enviar</button>
                     </div>
 
                 </div>

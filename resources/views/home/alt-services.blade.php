@@ -3,8 +3,8 @@
     <div class="section-header">
         <h2>Sobre</h2>
         <p>
-            Como arquiteta, acredito que a arquitetura tem o poder de melhorar a vida das pessoas e transformar a forma como elas interagem com o mundo ao seu redor. É uma honra e um privilégio poder ajudar nossos clientes a alcançar seus sonhos por meio do projeto arquitetônico.
-            Se você está buscando um projeto único e personalizado, estamos aqui para ajudá-lo.
+        Como arquiteta, acredito que a arquitetura consegue melhorar a vida das pessoas e transformar como elas interagem com o mundo ao seu redor. É uma honra e um privilégio poder ajudar nossos clientes a alcançar seus sonhos por meio do projeto arquitetônico.
+         Se você está buscando um projeto único e personalizado, estamos aqui para ajudá-lo.
         </p>
     </div>
 
@@ -41,7 +41,7 @@
                     <h4>Estilo e Abordagem</h4>
                     <p>
                         Meu estilo arquitetônico é caracterizado por minimalista e contemporâneo.
-                        Acredito na importância de uma abordagem holística e integrada ao projeto, considerando aspectos como funcionalidade, estética, sustentabilidade e bem-estar dos usuários.
+                        Acredito na importância de uma abordagem holística e integrada ao projeto, considerandos aspectos como funcionalidade, estética, sustentabilidade e bem-estar dos usuários.
                         Busco sempre estar atualizada com as tendências e inovações na área de arquitetura e design.
                     </p>
                 </div>
