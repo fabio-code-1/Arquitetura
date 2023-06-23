@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'miria-arquitetura'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C23551E540042C1ABEFC24623188107 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1F2A3C8B0B54807BA4BAC94CFFC63CA }}
           package: .
