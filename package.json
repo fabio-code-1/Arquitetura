@@ -4,7 +4,8 @@
         "dev": "vite",
         "build": "vite build",
         "development": "mix",
-        "watch": "mix watch"
+        "watch": "mix watch",
+        "prod": "mix --production"
     },
     "devDependencies": {
         "axios": "^1.1.2",
