@@ -7,42 +7,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
+      - name: FTP Deploy Locaweb
+        uses: locaweb/ftp-deploy@1.0.0
         with:
-          php-version: '8.2'
-
-      - name: Check if composer.json exists
-        id: check_files
-        uses: andstor/file-existence-action@v1
-        with:
-          files: 'composer.json'
-
-      - name: Run composer install if composer.json exists
-        if: steps.check_files.outputs.files_exists == 'true'
-        run: composer validate --no-check-publish && composer install --prefer-dist --no-progress
-
-      - name: Generate Laravel optimized autoload files
-        run: composer dump-autoload --optimize
-
-      - name: Build Laravel assets (e.g., CSS, JS)
-        run: npm install && npm run production
-
-      - name: Upload files via FTP
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
-        with:
-          server: ftp.example.com
-          username: miria-arquitetur1
+          host: ftp.miria-arquitetura.comercial.ws
+          user: miria-arquitetur1
           password: ${{ secrets.FTP_PASSWORD }}
-          port: 21
-          local-dir: ./public
-          remote-dir: /home/miria-arquitetur1/public_html
-
-      - name: Set Deployment URL
-        run: echo "deployment_url=https://miria-arquitetura.comercial.ws" >> $GITHUB_ENV
+          localDir: ./public
+          remoteDir: /home/miria-arquitetur1/public_html
