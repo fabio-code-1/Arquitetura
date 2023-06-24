@@ -35,7 +35,7 @@ jobs:
         run: npm install && npm run production
 
       - name: Upload files via FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.2.1
+        uses: wilspi/ftp-deploy-action@v2
         with:
           server: ftp.miria-arquitetura.comercial.ws
           username: miria-arquitetur1
